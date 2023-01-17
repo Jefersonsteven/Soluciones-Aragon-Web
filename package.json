@@ -1,0 +1,21 @@
+{
+  "name": "soluciones-aragon-app",
+  "version": "1.0.0",
+  "description": "Esta es la pagina web para la empresa Soluciones Aragon",
+  "main": "index.js",
+  "scripts": {
+    "console": "node src/index.js",
+    "Add": "git add ."
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "scss"
+  ],
+  "author": "Jefferson Steven",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "sass": "^1.57.1"
+  }
+}

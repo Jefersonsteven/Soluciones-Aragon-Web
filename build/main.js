@@ -16,17 +16,17 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils */ \"./src/utils.js\");\n\n\n(0,_utils__WEBPACK_IMPORTED_MODULE_0__.sayHi)()\n\n//# sourceURL=webpack://soluciones-aragon-app/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _utils_salute__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils/salute */ \"./src/utils/salute.js\");\n\n\n(0,_utils_salute__WEBPACK_IMPORTED_MODULE_0__.sayHi)()\n\n//# sourceURL=webpack://soluciones-aragon-app/./src/index.js?");
 
 /***/ }),
 
-/***/ "./src/utils.js":
-/*!**********************!*\
-  !*** ./src/utils.js ***!
-  \**********************/
+/***/ "./src/utils/salute.js":
+/*!*****************************!*\
+  !*** ./src/utils/salute.js ***!
+  \*****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"sayHi\": () => (/* binding */ sayHi)\n/* harmony export */ });\n const sayHi = () => console.log(\"@Jefersonsteven_ Estuvo Aqui !!\")\n\n//# sourceURL=webpack://soluciones-aragon-app/./src/utils.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"sayHi\": () => (/* binding */ sayHi)\n/* harmony export */ });\n const sayHi = () => console.log(\"@Jefersonsteven_ Estuvo Aqui !!\")\n\n//# sourceURL=webpack://soluciones-aragon-app/./src/utils/salute.js?");
 
 /***/ })
 

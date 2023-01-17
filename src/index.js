@@ -1,3 +1,3 @@
-import {sayHi} from './utils'
+import {sayHi} from './utils/salute'
 
 sayHi()

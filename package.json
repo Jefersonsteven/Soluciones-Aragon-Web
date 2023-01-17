@@ -4,8 +4,8 @@
   "description": "Esta es la pagina web para la empresa Soluciones Aragon",
   "main": "index.js",
   "scripts": {
-    "console": "node src/index.js",
-    "Add": "git add ."
+    "build": "webpack --mode=development",
+    "console": "node dist/main.js"
   },
   "keywords": [
     "javascript",
@@ -16,6 +16,9 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.32.0",
-    "sass": "^1.57.1"
-  }
+    "sass": "^1.57.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {}
 }

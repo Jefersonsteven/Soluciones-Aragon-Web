@@ -1,1 +1,3 @@
-console.log("@Jefersonsteven_ Estuvo Aqui !!");
+import {sayHi} from './utils'
+
+sayHi()
